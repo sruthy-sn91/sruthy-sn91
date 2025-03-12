@@ -88,8 +88,8 @@
 ## ✨ Fun Facts & Interests
 
 - 🎨 Passionate about **art and creativity**.
-- 📚 Love reading **sci-fi books** & **AI research papers**.
-- 🚴 Enjoy **cycling** and **exploring new places**.
+- 📚 Love reading **Fantasy fiction books**
+- 🚴 Enjoy **solving puzzles** and **exploring new places**.
 - 🎮 Gamer at heart - always up for a **strategy challenge**! 🕹️
 
 ---
