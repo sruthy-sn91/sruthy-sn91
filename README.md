@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! I'm Sruthy Sreerag Nath 👋 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast+%7C+Data+Explorer;Passionate+about+Learning+%F0%9F%92%BB;Open+to+Opportunities!+%E2%9C%85" alt="Typing SVG" align="center"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%7C+Data+Explorer;Passionate+about+Learning+%F0%9F%92%BB;Open+to+Opportunities!+%E2%9C%85" alt="Typing SVG" align="center"/>
 
 ---
 
@@ -8,7 +8,7 @@
 
 🎓 **AI & ML Engineer** with a Master’s in Artificial Intelligence, passionate about making **data-driven decisions** and **building AI solutions**. My expertise lies in **Machine Learning, Deep Learning, and Data Analytics**. 
 
-💡 Constantly exploring **new tech** and learning **MLOps**, **Cloud AI**, and **AI Ethics**.
+💡 Constantly exploring **new technologies**, with a keen interest in **MLOps**, **Computer Vision**, and **NLP**.
 
 📌 Currently, I'm **open to new opportunities** in the AI/Data industry to restart my career.
 
@@ -29,15 +29,27 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Data & Databases:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+**Web Frameworks & Deployment:**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Computer Vision & NLP:**  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-4A90E2?style=flat)
 
 **DevOps & Cloud:**  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Data Visualization & BI Tools:**  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
 
@@ -63,10 +75,10 @@
   <a href="https://github.com/sruthy-sn91">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sruthy.sn91@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://yourwebsite.com">
+  <a href="https://project-database-870cb.web.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio">
   </a>
 </p>
