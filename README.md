@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! I'm Sruthy Sreerag Nath 👋 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI%2FML+%7C+Data+Science+%7C+GenAI+%7C+Computer+Vision;Passionate+about+Learning+%F0%9F%92%BB;Open+to+Opportunities!+%E2%9C%85" alt="Typing SVG" align="center"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI%2FML+%7C+Data+Science;NLP+%7C+GenAI+%7C+Computer+Vision;Passionate+about+Learning+%F0%9F%92%BB;Open+to+Opportunities!+%E2%9C%85" alt="Typing SVG" align="center"/>
 
 ---
 
